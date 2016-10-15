@@ -1,7 +1,7 @@
 # Engenharia de Software
 Spring Test
 
-testing skills:
+testing skills:<b>
 • Java 8 (JDK)
 • IDE (preferencial: Intellij)
 • Git
