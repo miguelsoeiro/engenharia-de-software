@@ -2,11 +2,11 @@
 Spring Test
 
 testing skills:<br>
-• Java 8 (JDK)
-• IDE (preferencial: Intellij)
-• Git
-• Maven
-• JSP + Servlets
-• HTML
-• Base de Dados (Derby e MySQL)
+• Java 8 (JDK)<br>
+• IDE (preferencial: Intellij)<br>
+• Git<br>
+• Maven<br>
+• JSP + Servlets<br>
+• HTML<br>
+• Base de Dados (Derby e MySQL)<br>
 • Spring-mvc e spring-orm
